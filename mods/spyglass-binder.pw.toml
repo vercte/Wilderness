@@ -1,0 +1,13 @@
+name = "Spyglass Binder"
+filename = "spyglassbinder-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/13k1rATA/versions/haD5Pk1p/spyglassbinder-1.0.1.jar"
+hash-format = "sha512"
+hash = "dc582fd577228a012634c927eddd1c3f85f058d8185ebc6047e1b7dc5410c943fe56c19d0b33ff37e567650aad95099795f5fb1f65eacd985f6fd24895dc3524"
+
+[update]
+[update.modrinth]
+mod-id = "13k1rATA"
+version = "haD5Pk1p"

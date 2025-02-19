@@ -1,0 +1,27 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  "configVersion": 2,
+  "blacklisted_items": [],
+
+  "blacklisted_nbt": [],
+  
+  "only_disable_interactions": [],
+  
+  "only_disable_attacks": [],
+  
+  "only_disable_recipes": [],
+  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+} 

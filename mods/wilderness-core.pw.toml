@@ -1,0 +1,13 @@
+name = "Wilderness Core"
+filename = "wildernesscore-0.1.0a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NqRq2m1d/versions/QhMoIj75/wildernesscore-0.1.0a.jar"
+hash-format = "sha512"
+hash = "e29c467beece969655a21f5d55bbcaf0c619f5bb3d27371e6cd76b736248bcbb044fce51c565891729f4dfdec750a0828cadd0fd55c34e441a246abcf511329d"
+
+[update]
+[update.modrinth]
+mod-id = "NqRq2m1d"
+version = "QhMoIj75"

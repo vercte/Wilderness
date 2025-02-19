@@ -1,0 +1,13 @@
+name = "wilderness"
+author = "Vercte"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bbe47e5e3a8b39d4e136fd4936f2dc9e60e9660a105319cded5b36308862cc20"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

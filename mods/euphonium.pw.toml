@@ -1,0 +1,18 @@
+name = "Euphonium"
+filename = "euphonium-1.0.3+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XH8cnjHW/versions/Bdg5V49U/euphonium-1.0.3%2B1.20.jar"
+hash-format = "sha512"
+hash = "8977b73ecac5f8dd44a66eb4348482bda1c349426ddb8bdabbfd09f88f377135a705767acb9c23aeaa3c3ffca452902482ec882dbdcf669474baa2f1c018dcaa"
+
+[update]
+[update.modrinth]
+mod-id = "XH8cnjHW"
+version = "Bdg5V49U"
+
+[option]
+optional = true
+default = false
+description = "If you want more life in the world (note: large file size)"
