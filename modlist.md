@@ -52,6 +52,7 @@ Keep note that it may impact your experience when playing
 - Immersive Snow
 - Time and Wind
 - Spice of Fabric
+- Horse Buff
 
 # QOL
 - CarryOn
@@ -82,7 +83,8 @@ Keep note that it may impact your experience when playing
 - Better Clouds 🖥️ 
 - LambDynamicLights 🖥️
 - Euphonium 🖥️
-
+- CraftPresence 🖥️
+ 
 # Performance
 - Sodium 🖥️
 - Sodium Extra 🖥️

@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "a528c0c89ff7fa081648956b88ae33f1bd8852af44017b6f228d24d16089979c"
+
+[[files]]
 file = "config/beansbackpacks-common.json5"
-hash = "d1df75a2ded5dbb1bb9196ca96fe30c02c1d48eda724c36bb7e9cac60d8c299d"
+hash = "df98b6acd3284cb78ba35faccffff60c7b2cc19859a9fbd32bf4869cb5e0330a"
 
 [[files]]
 file = "config/carryon-client.json"
@@ -10,7 +14,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "0c055c374257b2989030b17cd39d2dbcc2fd849f5293725f6679906342ef0681"
+hash = "13e3190206e26ef4352624d65e5b0addf27bef36a28f30144777198479766c7a"
 
 [[files]]
 file = "config/create-common.toml"
@@ -137,6 +141,10 @@ file = "config/spiceoffabric.hjson"
 hash = "0e784797549f17e938b43f103e33a0f945ba963873f2f5870de5b6df2f78b345"
 
 [[files]]
+file = "config/supplementaries-common.json"
+hash = "5c2cbd8cddc1c7612ab35b4e99a89b26aab902afcc439c5c8542f29e634b5f1c"
+
+[[files]]
 file = "config/time-and-wind/config.json"
 hash = "e5b2b3ad0cba3d708e5106b6e85b09309ed056591aeb4b367cf88c28172e5e55"
 
@@ -185,6 +193,10 @@ file = "config/yosbr/config/create-client.toml"
 hash = "74dbce3a70ab7968720af1b138b93a2baef8d2c7e6bfa113f58735cfabb7310e"
 
 [[files]]
+file = "config/yosbr/config/figura.json"
+hash = "06093d404638e4cd092521f7318057fc098b8550e7c3129f436ac06259cf22e3"
+
+[[files]]
 file = "config/yosbr/config/railways-client.toml"
 hash = "979bf4027b69affd04bd0f4afa67321b7a2c742321728d366175ad816dd5c031"
 
@@ -206,7 +218,7 @@ hash = "eca28a3b33d0e32ccc76d2facae797986b7209b6853d5b9daf173d456b67ca62"
 
 [[files]]
 file = "modlist.md"
-hash = "0478dca4c387a81d540138a5471c7047a92f118a674bc1a4a4bf0cb3128b607f"
+hash = "cd6e75d03f78fccb554512bd5192f0c502a366706f833b54614ac9781c619e18"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -256,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "9bd57d8c99f2e8061e93f1d5688d50ac2859d13b9aff4f3f6c378634fbb92cee"
 metafile = true
 
 [[files]]
@@ -355,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5416337e747125b44160a67b2192f16cf31ea34599465c9f0934e086ecb91899"
+hash = "efa1a6999efa6018daa2c7bd0a7e22d87adc420960311c2ffc312d33bde69bd8"
 metafile = true
 
 [[files]]
@@ -411,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "ecf11e1b8addc7f1de4453bd12a7817df9abf5b9ceec1aa735f055dd510708f5"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
@@ -520,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d5204a9b2816324062d061c7d47e37558fd4c05a9d5f87509874764f2ba7171d"
+hash = "15dfe0c33fbb7b3348188918b34f128aeb1062515ba003506f281d17d0c4537c"
 metafile = true
 
 [[files]]
@@ -570,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
@@ -590,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "eb9de82d75d7a5219c4be0afc09841265133e8ca8043b762ac255f9ad9accc27"
+hash = "f0b570e8e530e37db551d60a86e9c1c58f75126df3a7ea6121434064ed9635d1"
 metafile = true
 
 [[files]]
@@ -630,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "14c6162a4fdd63a6cf70a60f3460f6d5ca07662c43e533ab974285cd9ab67703"
+hash = "6d0f90e567e49885fa3d818d3644a774b89c545ea78dfa18a57015e736aca388"
 metafile = true
 
 [[files]]
@@ -651,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "14a9049672f2c5c220d8021ad227d7a38f35cfb05260663011f9a65f1d5973f5"
 metafile = true
 
 [[files]]
