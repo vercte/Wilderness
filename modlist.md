@@ -53,6 +53,7 @@ Keep note that it may impact your experience when playing
 - Time and Wind
 - Spice of Fabric
 - Horse Buff
+- Backported Wolves
 
 # QOL
 - CarryOn
