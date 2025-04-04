@@ -1,0 +1,13 @@
+name = "Antique Atlas Tweaks"
+filename = "antiqueatlastweaks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ljpY4NNp/versions/rsNs3JVm/antiqueatlastweaks-1.0.0.jar"
+hash-format = "sha512"
+hash = "25ee4a55181fb5159eb4a82cf639e12b787cad93200219f5a1b70bcd9fc6d17f3678da3e002c9e9f9fab8a28e728dc89e7ec34874d779b97e77b089e451ded9b"
+
+[update]
+[update.modrinth]
+mod-id = "ljpY4NNp"
+version = "rsNs3JVm"

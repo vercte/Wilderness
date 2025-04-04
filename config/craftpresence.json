@@ -4,15 +4,15 @@
   "generalSettings": {
     "detectATLauncherInstance": false,
     "detectCurseManifest": false,
-    "detectMultiMCManifest": true,
-    "detectMCUpdaterInstance": true,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
     "detectTechnicPack": false,
-    "detectModrinthPack": true,
+    "detectModrinthPack": false,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "450485984333660181",
-    "defaultIcon": "grass",
+    "clientId": "1350960204283379733",
+    "defaultIcon": "wilderness",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
@@ -134,12 +134,13 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "Vercte": "https://mc-heads.net/avatar/5c034ace8d9e4f0a9725f3da316bd3c6"
     },
     "dynamicVariables": {
       "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
-      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "player_info_coordinate": "There are NO coordinates",
       "players": "{server.players.current} / {server.players.max} Players",
       "player_info_in": "({custom.player_info.health})",
       "player_info_items": "Items: {item.main_hand.message}",

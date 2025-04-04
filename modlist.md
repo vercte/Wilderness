@@ -38,6 +38,7 @@ Keep note that it may impact your experience when playing
 - Creeper Overhaul
 - More Mob Variants
 - Wilder Wild
+- Handcrafted
 
 # Worldgen
 - YUNG's Better Nether Fortresses 📡
@@ -60,7 +61,7 @@ Keep note that it may impact your experience when playing
 - Jade
 - Jade Addons
 - Crawl
-- MidnightControls
+- MidnightControls 🖥️
 - Shoulder Surfing Reloaded 🖥️
 - Mod Menu 🖥️
 - MacOS Input Fixes 🖥️🍎
@@ -85,7 +86,8 @@ Keep note that it may impact your experience when playing
 - LambDynamicLights 🖥️
 - Euphonium 🖥️
 - CraftPresence 🖥️
- 
+- Leave My Bars Alone 🖥️
+
 # Performance
 - Sodium 🖥️
 - Sodium Extra 🖥️
